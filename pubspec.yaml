@@ -1,0 +1,24 @@
+name: rapid_rescue
+description: "The app that could save your life – Rapid Rescue."
+publish_to: 'none'
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.0-134.1.beta <4.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.5.0
+  flutter_native_splash: ^2.3.6
+  flutter_launcher_icons: ^0.13.1
+  geolocator: ^10.1.0
+  intl: ^0.18.1
+  shared_preferences: ^2.2.2
+  permission_handler: ^11.1.0
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+flutter:
+  uses-material-design: true
+  #assets:
+  #fonts:

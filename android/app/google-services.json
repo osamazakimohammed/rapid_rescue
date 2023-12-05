@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "952069168901",
+    "project_id": "rapid-rescue-401802",
+    "storage_bucket": "rapid-rescue-401802.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952069168901:android:744b6ee8d369d19cc6616c",
+        "android_client_info": {
+          "package_name": "osama.zaki.mohammed.rapid_rescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8nX89MNgoz1scUfPd3FmOpbc5mbTFx-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

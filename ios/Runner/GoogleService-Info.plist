@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDErl4QqJBIEg1ILNb6YDRP1LellbU_WV8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>952069168901</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>osama.zaki.mohammed.rapidRescue</string>
+	<key>PROJECT_ID</key>
+	<string>rapid-rescue-401802</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rapid-rescue-401802.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:952069168901:ios:bcf4cec8f9e0a872c6616c</string>
+</dict>
+</plist>
